@@ -1,0 +1,54 @@
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Friday Night Waltz Gallery</title>
+
+<link rel = "stylesheet"
+   type = "text/css"
+   href = "fnw.css" >
+   
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+<div>
+
+
+	
+  <ul>
+  <li><a href="index.shtml" >Friday Night Waltz</a></li>
+  <li><a href="gallery.shtml">Gallery</a></li>
+  <li><a href="FAQ.shtml">FAQ</a></li>
+  <li><a href="teachers.shtml">Teachers-Bands-Djs</a></li>
+  <li><a href="handout.pdf">Handout</a></li>
+
+</ul>
+
+  
+
+<br>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/H_P1tOhgHHE" frameborder="0" allowfullscreen></iframe>
+<iframe width="210" height="158" src="https://www.youtube.com/embed/X-vSouuPYcw" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/4JcofrSpIQM" frameborder="0" allowfullscreen></iframe><br>
+<iframe width="210" height="158" src="https://www.youtube.com/embed/6aXcOgwMTYU" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/t-UQUwO9UrE" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/DyEngFrUiP4" frameborder="0" allowfullscreen></iframe>
+<iframe width="210" height="158" src="https://www.youtube.com/embed/Wutg3zIgyBc" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/Mh3ehn2Slic" frameborder="0" allowfullscreen></iframe><br>
+<iframe width="210" height="158" src="https://www.youtube.com/embed/JtXwCkB80oI" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/RJ3OqTvtqWQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="210" height="158" src="https://www.youtube.com/embed/aPlKjKiq-x4" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/a5CHDe64z5Y" frameborder="0" allowfullscreen></iframe><br>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/Baw193iOZlA" frameborder="0" allowfullscreen></iframe>
+<iframe width="210" height="158" src="https://www.youtube.com/embed/_S9fb02Vi-c" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/j_Qy6u2Qh9I" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/RJ3OqTvtqWQ" frameborder="0" allowfullscreen></iframe><br>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/CtgRV9YlcGo" frameborder="0" allowfullscreen></iframe><br>
+
+     
+</div> 
+ 
+
+</body>
+</html>

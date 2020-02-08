@@ -1,0 +1,77 @@
+/*  fnw.css */
+
+<style>
+/*
+.largefont {
+		color: 		#0066FF;
+		font-family:	arial;
+		font-size: 	60px;
+	} 
+*/
+
+BR { clear: left }
+
+h2  { 
+    	font-family:    Arial, Helvetica, sans-serif;
+        font-size:     	20px;
+        font-weight:   	bold;
+		color:			#FF0000;
+	} 
+
+			
+
+.announce{
+    	font-family:    Arial, Helvetica, sans-serif;
+        font-size:     	20px;
+        font-weight:   	bold;
+		color:			#FF0000;
+	}
+hr {
+		height:1px;
+		border-width:0;
+		color:gray;
+		background-color:blue
+	}
+	
+body {
+		display: 		block;
+   		margin: 		8px;
+		font-family:    Arial, Helvetica, sans-serif;
+        font-size: medium;
+		color:			#000000;
+		width:			92%;
+	}
+	
+
+
+ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #333;
+	}
+
+li	{
+    	float: left;
+	}
+
+
+li a 
+	{
+    	display: block;
+    	color: white;
+    	text-align: center;
+    	padding: 14px 16px;
+    	text-decoration: none;
+	}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover 
+	{
+    	background-color: #FF0000;
+	}
+
+
+
+</style>
